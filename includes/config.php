@@ -9,12 +9,12 @@ define('SITE_NAME', 'AgendaPet - Pets Place');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'ottove06_agendapet');
 define('DB_USER', 'ottove06_ottoverg');
-define('DB_PASS', '@Olnv183201#');
+define('DB_PASS', '');
 
 // Configurações de e-mail
 define('SMTP_HOST', 'mail.petsplace.net.br');
 define('SMTP_USER', 'comercial@petsplace.net.br');
-define('SMTP_PASS', '@pl#Olnv183201#!!!');
+define('SMTP_PASS', '');
 define('SMTP_PORT', 587);
 define('SMTP_SECURE', 'tls');
 
